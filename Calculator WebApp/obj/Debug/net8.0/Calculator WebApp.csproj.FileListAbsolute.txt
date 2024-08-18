@@ -1,0 +1,30 @@
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\Calculator WebApp.staticwebassets.runtime.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\Calculator WebApp.exe
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\Calculator WebApp.deps.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\Calculator WebApp.runtimeconfig.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\Calculator WebApp.dll
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\bin\Debug\net8.0\Calculator WebApp.pdb
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.AssemblyInfoInputs.cache
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.AssemblyInfo.cs
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.csproj.CoreCompileInputs.cache
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.RazorAssemblyInfo.cache
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.RazorAssemblyInfo.cs
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Calculator WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Calculator WebApp.props
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Calculator WebApp.props
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Calculator WebApp.props
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\scopedcss\bundle\Calculator WebApp.styles.css
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\scopedcss\projectbundle\Calculator WebApp.bundle.scp.css
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.dll
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\refint\Calculator WebApp.dll
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.pdb
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\Calculator WebApp.genruntimeconfig.cache
+C:\Users\jmgri\PersonalRepos\ASP.NET MVC\Calculator\Calculator WebApp\obj\Debug\net8.0\ref\Calculator WebApp.dll
